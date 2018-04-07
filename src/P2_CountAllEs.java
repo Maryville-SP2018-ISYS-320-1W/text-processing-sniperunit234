@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /* 2. Your pseudocode algorithm in here
  
- 
+ find and Print total letter of e in a setence
  
  
  

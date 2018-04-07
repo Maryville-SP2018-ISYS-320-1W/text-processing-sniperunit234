@@ -18,7 +18,7 @@ public class P5_AvgToTwoPlaces {
 		// Initializing countOfTwos to 0 as we have not yet counted any twos
 		double sum = 0;
 		for( int numberIndex = 1; numberIndex <= numbers; numberIndex++ ) {
-			System.out.print("Enter number " + numberIndex + ": ");
+			System.out.print("7 " + numberIndex + ": ");
 			double nextInputValue = input.nextDouble();
 			
 			sum += nextInputValue;
